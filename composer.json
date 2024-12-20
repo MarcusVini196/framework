@@ -1,0 +1,17 @@
+{
+    "name": "marcus/framework",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marcus",
+            "email": "marcus@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.0"
+    }
+}
